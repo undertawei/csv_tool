@@ -130,12 +130,7 @@ PySocks==1.7.1
 python-dateutil==2.9.0
 python-json-logger==2.0.7
 pytz==2024.1
-# Rust toolchain is required to compile the Rust extensions.
-# Please install Rust and Cargo by following the instructions at https://rustup.rs/
-# You can install Rust toolchain by running:
-# curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-# 
-# Note: This is not a Python package and cannot be installed using pip.
+pywin32==304
 
 pywinpty==2.0.13
 PyYAML==6.0.2
